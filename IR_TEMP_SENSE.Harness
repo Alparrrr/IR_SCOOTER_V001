@@ -1,0 +1,2 @@
+I2C=SCL,SDA
+TEMP=Temp_1,Temp_2
